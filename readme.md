@@ -1,0 +1,2 @@
+### CMSC 254 Machine Learning Viola-Jones Face Detector
+This is an implementation of the Viola-Jones facial detection algorithm written in Python in January 2017 for my Machine Learing Class. We were given a training set of 64x64px images and a large image of a class photo that this program detected faces on.
